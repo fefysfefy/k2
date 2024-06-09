@@ -26,6 +26,7 @@ import model.ProductModel;
 /**
  * Servlet implementation class Vendita
  */
+
 @WebServlet("/Vendita")
 public class Vendita extends HttpServlet {
 	private static final long serialVersionUID = 1L;
